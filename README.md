@@ -15,10 +15,4 @@ The most important features of this project are:
 In addition, all the products shown are actually available on the Mercado Livre website, which is the API used to make this project.
 
 ---------------
-> It's important to highlight that only the documents produced by me are
-> in the repository. For some of the projects, Trybe, which is the
-> course that I'm following, gives us some functions/objects/styling
-> that helps us to conclude the project, so the repository may seem
-> incomplete.
----------------
 If you see something that can be improved, please contact me! All feedback is very welcome.:sparkles:
